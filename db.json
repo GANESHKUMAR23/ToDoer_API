@@ -1,14 +1,24 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 },
-      { "id": "3", "title": "New title", "views": 500 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "items": [
+      {
+        "id": "2",
+        "task": "learn python",
+        "checked": false
+      },
+      {
+        "id": "3",
+        "task": "learn java",
+        "checked": false
+      },
+      {
+        "id": "4",
+        "task": "learn git&Github",
+        "checked": false
+      },
+      {
+        "id": "5",
+        "task": "play song",
+        "checked": false
+      }
+    ]
   }
